@@ -1,4 +1,4 @@
-# Fb-Cracker.py
+# Fb-Cracker
 FACEBOOK AUTO CRACKER
 
 
